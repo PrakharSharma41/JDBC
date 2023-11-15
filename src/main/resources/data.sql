@@ -1,0 +1,2 @@
+-- drop table books;
+-- create table books
